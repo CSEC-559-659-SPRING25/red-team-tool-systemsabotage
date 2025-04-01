@@ -68,7 +68,7 @@ This will print additional information about the restoration process.
 ---
 ## How to Use the Tool in a Red Team Competition
 1. **Initiate a Reverse Shell** (using a C2 system like `SabTounge`).
-2. **Use the **`TCP-CONNECT` command to connect to the target system.
+2. **Use the** `TCP-CONNECT` command to connect to the target system.
 3. **Execute the sabotage command** for a specific service.
 4. **Observe the disruption** caused by the tool.
 5. **Use the restore command** to restore the target system and services back to their original state.
