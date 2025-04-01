@@ -1,7 +1,7 @@
 # README for Service Saboteur Tool
 # Tool Name: Service Saboteur
 ## Author: William Faber
-## Email: wfaber@rit.edu
+## Email: wmf1426@rit.edu
 
 Description:
 The Service Saboteur is a Python-based tool designed to sabotage critical services during red team operations, specifically targeting services such as nginx, mysql, and samba. The tool provides functionality to:
